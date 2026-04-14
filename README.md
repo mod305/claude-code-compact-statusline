@@ -4,9 +4,7 @@ A minimal [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) st
 
 Unlike generic token-percentage statuslines, each threshold maps to an actionable hint — so you know not just *how full* the context is, but *what to do about it*.
 
-```
-[████░░░░░░]  82,341/1,000,000 ( 8.2%) OK  opus-4-6·1M · my-project
-```
+![preview](preview.svg)
 
 ## Why
 
